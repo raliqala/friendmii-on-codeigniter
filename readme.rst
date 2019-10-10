@@ -1,5 +1,5 @@
 ################################
-FriendMii built on Codeigniter 3 
+FriendMii built on Codeigniter
 ################################
 
 This project is still in development
